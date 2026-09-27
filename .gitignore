@@ -1,0 +1,13 @@
+build/
+CMakeLists.txt.user
+*.db
+*.db-journal
+*.o
+*.obj
+*.exe
+.vscode/
+.idea/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
